@@ -1,2 +1,15 @@
 # Crazy-Helicopter
-Basic 2D Game as like FlappyBird game
+Basic 2D Crazy-Helicopter Game
+
+# Language
+C#
+
+# Editor
+Unity 
+visual studio community 
+figma
+
+# Element
+opengameart.org
+flaticon.com
+
